@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Test End to End Admin Page Functionality
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.857 s - in Test End to End Admin Page Functionality

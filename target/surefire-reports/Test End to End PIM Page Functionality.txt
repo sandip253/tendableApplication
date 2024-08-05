@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Test End to End PIM Page Functionality
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.762 s - in Test End to End PIM Page Functionality
